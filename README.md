@@ -6,6 +6,7 @@ Records of the assignments from the [Codecademy: Learn Python](https://www.codec
 #### **Unit 3:** PygLatin - part 10
 Translates a word given by the user into Pig Latin by moving the first letter of the word to the end and adding 'ay'. Also validates the user input to check that it is a valid English word.
 #### **Unit 4:** Taking a Vacation - part 7
+Uses functions to help plan a vacation based on user input. Determines the total cost of the trip from the amount of spending money and the costs of the hotel, the plane trip, and the rental car based on the length of the trip and the city.
 #### **Unit 5:** A Day at the Supermarket - part 12
 #### **Unit 6:** Student Becomes the Teacher - part 9
 #### **Unit 7:** Battleship! - part 18
