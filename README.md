@@ -10,4 +10,5 @@ Uses functions to help plan a vacation based on user input. Determines the total
 #### **Unit 5:** A Day at the Supermarket - part 12
 Builds out the functionality of a supermarket. On the management side, keeps track of product prices and inventory using dictionaries. On the consumer side, computes the bill for a given shopping list of food given that the items are in stock.
 #### **Unit 6:** Student Becomes the Teacher - part 9
+Builds out the functionality of a gradebook. Stores each student as a dictionary of their name and assignment grades. Can calculate the weighted average grade based on those assignments and assign a letter grade. Can also calculate the class average based on a list of student dictionaries.
 #### **Unit 7:** Battleship! - part 18
