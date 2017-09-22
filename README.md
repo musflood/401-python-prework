@@ -12,3 +12,4 @@ Builds out the functionality of a supermarket. On the management side, keeps tra
 #### **Unit 6:** Student Becomes the Teacher - part 9
 Builds out the functionality of a gradebook. Stores each student as a dictionary of their name and assignment grades. Can calculate the weighted average grade based on those assignments and assign a letter grade. Can also calculate the class average based on a list of student dictionaries.
 #### **Unit 7:** Battleship! - part 18
+A simplified, one-player version of the board-game Battleship. A single ship is placed randomly in a 5-by-5 grid and the user has 4 guesses to try and sink it. Each turn the current state of the board and the current turn is printed and the user enters a column and row for their guess. If correct, the user wins and the game ends. If incorrect, the user gets to guess again, unless they are out of guesses.
